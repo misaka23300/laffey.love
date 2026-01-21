@@ -4,7 +4,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
-  dest: "/opt/1panel/apps/openresty/openresty/www/sites/laffey4590.asia/index",
+  dest: ".vuepress/dist",
   lang: "zh-CN",
   title: "基于vuepress的网站",
   description: "vuepress-theme-hope 的博客演示",

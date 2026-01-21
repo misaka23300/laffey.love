@@ -1,0 +1,4 @@
+User-agent:*
+Disallow:
+
+Sitemap: https://laffey4590.asia/sitemap.xml
